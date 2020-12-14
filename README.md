@@ -39,8 +39,7 @@ A new chess game has started!
 From final output of Alekhine vs Vasic (1931):
 ```
 white's Bishop moves from D3 to G6
-black's King is now in check!
-Checkmate on black! white wins!!!
+black is in checkmate
 
 
     A B C D E F G H 
