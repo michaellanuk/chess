@@ -1,5 +1,5 @@
 # Chess
-Implementation of a chess engine in C++. Completed as part of programming laboratory coursework for Imperial College London's MSc in Computing.
+Implementation of a chess engine in C++.
 
 This program manages and simulates chess games. By default, it simulates a short game played between Alexander Alekhine and Milorad Vasic in 1931.
 
